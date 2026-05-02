@@ -1,0 +1,12 @@
+{
+  "name": "parcial-serie-2",
+  "version": "1.0.0",
+  "description": "Aplicación web - Parcial Serie 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
